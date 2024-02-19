@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [Feb 18, Sunday, 2024].
 Started #100DaysOfCode, read notes about JavaScript syntax and structure, registered on codewars.com and done one task.
 
 ### R1D2
+I remembered what objects are, read about Constructors, Prototypies, "this" keyword.
