@@ -12,3 +12,9 @@ I remembered what objects are, read about Constructors, Prototypies, "this" keyw
 
 ### R1D3
 Construction functions, prototypes, this keyword.
+
+### R1D4
+Start to do project Library App, basic layout, basic script.
+
+### R1D5
+Appearance of Library App, Scripts: a) show all books on the page b) button to open form for new book
